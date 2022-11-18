@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DPEVV6V//tHFaxMjS+iSFRM5VrtiutNE/nex0zN4e/soqEe4t8gLKHs5ZUaxi2eI2+ulYR8tO8/DnYu911HJxQ==",
+  "dgSpecHash": "00QarKQ3NaU5iHf3CmUvOreBYIZqijHjxCSeptZAYpjhbXZ8oQRFP9AKU0P1ofLN3PzfnJJ3dLa/soAsoVQ5wg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Repos\\WorkshopManager\\WorkshopManager.Infrastructure\\WorkshopManager.Infrastructure.csproj",
+  "projectFilePath": "D:\\Projects\\Personal\\Anter\\WorkshopManager\\Solution\\WorkshopManager\\WorkshopManager.Infrastructure\\WorkshopManager.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
